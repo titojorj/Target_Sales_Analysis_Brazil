@@ -28,6 +28,8 @@ orders.csv
 products.csv
 ___________________________________________________________________________________________________________
 
+**Complete Analysis with codes:** https://docs.google.com/document/d/1IY-G2nnF9tMl32A7p1GohgCstGlvxjNk2FKAQwPK5Mc/edit?usp=sharing 
+
 **Data Overview:**
 <br>
 Total customers: 99,441
